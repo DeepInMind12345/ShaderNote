@@ -4,6 +4,7 @@
 		[PerRendererData] _AlphaTex("Sprite Alpha Texture", 2D) = "white" {}
         _Color("Tint", Color) = (1, 1, 1, 1)
         [MaterialToggle] PixelSnap("Pixel snap", float) = 0
+        //大大大
 
         /* Flowlight */
         _FlowlightColor("Flowlight Color", Color) = (1, 0, 0, 1)
